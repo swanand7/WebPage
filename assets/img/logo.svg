@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="291.879" height="61.255" viewBox="0 0 291.879 61.255">
+  <g id="logo" transform="translate(0 -0.001)">
+    <g id="Group_4" data-name="Group 4" transform="translate(0 0.001)">
+      <g id="Group_9" data-name="Group 9">
+        <path id="Path_7" data-name="Path 7" d="M30.629,61.256A30.627,30.627,0,1,1,61.257,30.63,30.661,30.661,0,0,1,30.629,61.256m0-54.629a24,24,0,1,0,24,24,24.031,24.031,0,0,0-24-24" transform="translate(0 -0.001)" fill="#e0954a"/>
+        <path id="Path_8" data-name="Path 8" d="M42.558,61.256A30.627,30.627,0,1,1,73.186,30.63,30.661,30.661,0,0,1,42.558,61.256m0-54.629a24,24,0,1,0,24,24,24.031,24.031,0,0,0-24-24" transform="translate(20.2 -0.001)" fill="#e0954a"/>
+      </g>
+    </g>
+    <text id="LOGO-2" data-name="LOGO" transform="translate(208.879 40.915)" fill="#38474f" font-size="31" font-family="Raleway-Medium, Raleway" font-weight="500"><tspan x="0" y="0" letter-spacing="-0.06em">L</tspan><tspan y="0" letter-spacing="-0.019em">OG</tspan><tspan y="0">O</tspan></text>
+    <text id="YOUR_" data-name="YOUR " transform="translate(110.276 40.915)" fill="#38474f" font-size="31" font-family="Raleway-Black, Raleway" font-weight="800"><tspan x="0" y="0" letter-spacing="-0.065em">Y</tspan><tspan y="0" letter-spacing="-0.019em">O</tspan><tspan y="0" letter-spacing="-0.02em">U</tspan><tspan y="0" letter-spacing="-0.019em">R</tspan><tspan y="0"> </tspan></text>
+  </g>
+</svg>
