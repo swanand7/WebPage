@@ -23,7 +23,7 @@ window.onload = () => {
         places.forEach((place) => {
           const latitude = place.position.lat;
           const longitude = place.position.lng;
-
+          const url = "https://www.google.com/";
           // add place icon
           const icon = document.createElement("a-image");
           icon.setAttribute(
@@ -31,6 +31,7 @@ window.onload = () => {
             `latitude: ${latitude}; longitude: ${longitude};`
           );
           icon.setAttribute("name", place.title);
+          icon.setAttribute("href", url);
           icon.setAttribute("src", "./assets/map-marker.png");
 
           // for debug purposes, just show in a bigger scale, otherwise I have to personally go on places...
